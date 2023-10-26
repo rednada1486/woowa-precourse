@@ -1,0 +1,3 @@
+[submodule "week1-baseball"]
+	path = week1-baseball
+	url = https://github.com/rednada1486/java-baseball-6.git

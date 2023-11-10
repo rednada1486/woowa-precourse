@@ -4,3 +4,6 @@
 [submodule "week3-lotto"]
 	path = week3-lotto
 	url = https://github.com/rednada1486/java-lotto-6.git
+[submodule "week2-racingcar"]
+	path = week2-racingcar
+	url = https://github.com/rednada1486/java-racingcar-6.git

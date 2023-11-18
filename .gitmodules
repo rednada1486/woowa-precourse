@@ -7,3 +7,6 @@
 [submodule "week2-racingcar"]
 	path = week2-racingcar
 	url = https://github.com/rednada1486/java-racingcar-6.git
+[submodule "week4-christmas"]
+	path = week4-christmas
+	url = https://github.com/rednada1486/java-christmas-6-rednada1486.git

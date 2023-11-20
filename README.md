@@ -7,10 +7,10 @@
 ### 🗂️ 정리
 | No | Mission    | Repository                                                                        |            기간             |     회고     |
 |:------:|:-----------|:----------------------------------------------------------------------------------|:-------------------------:|:----------:|
-| 1 | 숫자 야구 게임   | [java-baseball](https://github.com/rednada1486/java-baseball-6.git)               | 2023.10.19. ~ 2023.10.25. | [1주차 회고]() |
-| 2 | 자동차 경주 게임  | [java-racingcar](https://github.com/rednada1486/java-racingcar-6.git)              | 2023.10.26. ~ 2023.11.01. | [2주차 회고](https://velog.io/@rednada1486_/Week2-%ED%9B%84%EA%B8%B0) |
-| 3 | 로또         | [java-lotto](https://github.com/rednada1486/java-lotto-6.git)                | 2023.11.02. ~ 2023.11.08. | [3주차 회고](https://velog.io/@rednada1486_/Week3-%ED%9B%84%EA%B8%B0) |
-| 4 | 크리스마스 프로모션 | [java-christmas](https://github.com/rednada1486/java-christmas-6-rednada1486.git) | 2023.11.09. ~ 2023.11.15. | [4주차 회고](https://velog.io/@rednada1486_/Week4-%ED%9B%84%EA%B8%B0) |
+| 1 | 숫자 야구 게임   | [java-baseball](https://github.com/rednada1486/java-baseball-6/tree/rednada1486)               | 2023.10.19. ~ 2023.10.25. | [1주차 회고]() |
+| 2 | 자동차 경주 게임  | [java-racingcar](https://github.com/rednada1486/java-racingcar-6/tree/rednada1486)              | 2023.10.26. ~ 2023.11.01. | [2주차 회고](https://velog.io/@rednada1486_/Week2-%ED%9B%84%EA%B8%B0) |
+| 3 | 로또         | [java-lotto](https://github.com/rednada1486/java-lotto-6/tree/rednada1486)                | 2023.11.02. ~ 2023.11.08. | [3주차 회고](https://velog.io/@rednada1486_/Week3-%ED%9B%84%EA%B8%B0) |
+| 4 | 크리스마스 프로모션 | [java-christmas](https://github.com/rednada1486/java-christmas-6-rednada1486/tree/rednada1486) | 2023.11.09. ~ 2023.11.15. | [4주차 회고](https://velog.io/@rednada1486_/Week4-%ED%9B%84%EA%B8%B0) |
 
 ### 📚️ 배운 것
 
